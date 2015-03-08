@@ -1,3 +1,4 @@
 UnBundle 'spf13/vim-autoclose'
 UnBundle 'bling/vim-bufferline'
 
+Bundle 'tfnico/vim-gradle'
