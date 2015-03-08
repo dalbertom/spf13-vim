@@ -1,5 +1,3 @@
 UnBundle 'spf13/vim-autoclose'
 UnBundle 'bling/vim-bufferline'
 
-Bundle 'edkolev/tmuxline.vim'
-Bundle 'itchyny/lightline.vim'
