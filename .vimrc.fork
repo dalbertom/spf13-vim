@@ -3,8 +3,8 @@ set tabstop=2
 set softtabstop=2
 
 " automatically fold by syntax
-set foldmethod=syntax
-"set foldmethod=manual
+"set foldmethod=syntax
+set foldmethod=manual
 
 " prevent search from opening folds
 set foldopen-=search
