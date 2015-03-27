@@ -1,3 +1,7 @@
+if !exists("g:bundles")
+  let g:bundles = g:vundle#bundles
+endif
+
 UnBundle 'spf13/vim-autoclose'
 UnBundle 'bling/vim-bufferline'
 
