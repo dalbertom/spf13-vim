@@ -4,5 +4,6 @@ endif
 
 UnBundle 'spf13/vim-autoclose'
 UnBundle 'bling/vim-bufferline'
+UnBundle 'jiangmiao/auto-pairs'
 
 Bundle 'tfnico/vim-gradle'
